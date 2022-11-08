@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
-.favorite color{
-font-size: 20px;
+.favorite-color{
+ text-emphasis-color: red;
+ color: blue;
+ font-size: 25px;
+ font-weight: 500px;
 }
